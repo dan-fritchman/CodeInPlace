@@ -5,6 +5,8 @@
     * Function Calls
     * Function Definitions 
     * Loops
+    * Conditionals
+
 * This Week
     * Variables 
     * Types
